@@ -1,0 +1,33 @@
+.flex {
+    display: flex;
+}
+
+body {
+    background-color: whitesmoke;
+    margin-left: 100px ;
+}
+
+.box{
+    width: 200px;
+    height: 800px ;
+    margin: 4pc;
+    border: solid 7px;
+    border-radius: 1em;
+}
+
+.box1{
+    background-color: aqua;
+
+}
+
+.box2 {
+    background-color: salmon;
+}
+
+.box3 {
+background-color: lightcoral;
+}
+
+.box4 {
+    background-color: lightslategray;
+}
